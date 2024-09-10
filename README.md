@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # product_variants_app
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# addproduct
+>>>>>>> 478355a0d996b5902b2f3b560c62b2f18579d860
